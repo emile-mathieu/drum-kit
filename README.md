@@ -1,6 +1,6 @@
 # Drum Kit Website
-
-Drum kit website where you can click to play certain drum sounds. Made in Javascript, html & css.
+- To try out: https://emile-mathieu.github.io/drum-kit/
+- Drum kit website where you can click to play certain drum sounds. Made in Javascript, html & css.
 
 
 ## Authors
